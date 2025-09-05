@@ -1,4 +1,4 @@
-package com.boranstars.list;
+package com.boranstars.collection.list;
 
 import java.util.ArrayList;
 import java.util.List;
